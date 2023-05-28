@@ -23,7 +23,7 @@ python pepe_wallet.py
 + ```Ref code``` - your referrals code
 + ```Delay(sec)``` - delay between referral registrations in seconds
 
-Accounts are registered to random(non-existent) mail @gmail.com, wallets are not created.
+Accounts are registered to random(non-existent) email @gmail.com, wallets are not created.
 
 ## 📧 Contacts
 + Telegram - [@flamingoat](https://t.me/flamingoat)
